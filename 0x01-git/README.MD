@@ -1,2 +1,0 @@
-My 2nd readme
-README NOT EMPTY
